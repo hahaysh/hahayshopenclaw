@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-투자 일일 브리핑 생성 스크립트
+투자 일일 브리핑 생성 스크립트(OpenClaw + yfinance 활용)
 - yfinance로 실시간 시장 데이터 수집
 - 마크다운 브리핑 파일 저장
 - Telegram으로 요약 전송
