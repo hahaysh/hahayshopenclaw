@@ -20,6 +20,6 @@ jobs:
             cd /home/hahaysh/hahayshopenclaw
             git pull origin main
             rsync -av --checksum \
-              /home/hahaysh/hahayshopenclaw/investment-assistant/ \
+              /home/hahaysh/hahayshopenclaw/scripts/ \
               /home/hahaysh/investment-assistant/
             echo "✅ Deploy completed at $(date '+%Y-%m-%d %H:%M:%S KST')"
