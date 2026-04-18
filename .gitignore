@@ -1,14 +1,27 @@
-# OpenClaw runtime & memory (절대 GitHub에 올리지 않음)
-.openclaw/
-workspace/
-**/.openclaw/**
+# 개인 투자 데이터 — GitHub에 올리지 마세요
+data/portfolio.csv
+data/watchlist.csv
+data/investor_profile.md
+investment-assistant/generate_briefing.py
+
+# 생성된 리포트
+reports/
+
+# 로그
+logs/
 
 # Python
 __pycache__/
 *.pyc
+*.pyo
+.venv/
+venv/
+
+# 환경 설정 (토큰, API 키 등)
 .env
-.env.*
+secrets.env
+config.local.*
 
 # OS
 .DS_Store
-``
+Thumbs.db

@@ -1,0 +1,7 @@
+ticker,company_name,market,watch_reason,ideal_entry,trigger_condition,invalidation,risk_notes,priority
+035420,NAVER,KRX,AI검색 전환+클라우드 성장,170000,클라우드 매출 YoY 30%+,광고 매출 3분기 연속 역성장,라인야후 지배구조,2
+035720,카카오,KRX,플랫폼 정상화+밸류 저점,35000,영업이익 흑자전환 확인,규제 리스크 재확대,오버행 리스크,3
+MSFT,Microsoft,NASDAQ,Azure 성장 재가속,380,Azure 성장률 30%+ 복귀,AI 수익화 지연,밸류에이션 부담,1
+GOOGL,Alphabet,NASDAQ,광고+클라우드 이중 성장,155,GCP 점유율 상승 확인,AI 검색 점유율 잠식,반독점 규제,1
+000270,기아,KRX,현대차 대비 밸류 디스카운트,80000,PBR 0.8 이하+자사주 소각,미국 판매 부진,관세 리스크,2
+CVX,Chevron,NYSE,XOM 보완+배당 안정성,145,WTI 70달러 이상 안정,카자흐스탄 생산 차질,인수합병 불확실성,3

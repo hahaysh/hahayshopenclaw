@@ -1,0 +1,11 @@
+ticker,company_name,market,holding_status,quantity,avg_cost,currency,target_weight,thesis,risk_notes,priority
+005930,삼성전자,KRX,active,100,72000,KRW,0.15,HBM/파운드리 회복+고배당,실적 가이던스 하향 리스크,1
+000660,SK하이닉스,KRX,active,30,180000,KRW,0.10,HBM3E 점유율 확대,AI 수요 둔화시 밸류 재조정,1
+005380,현대차,KRX,active,20,220000,KRW,0.08,EV전환+주주환원 확대,미국 관세 리스크,2
+105560,KB금융,KRX,active,50,85000,KRW,0.08,고금리 수혜+배당성향 확대,부동산 PF 리스크,2
+JPM,JPMorgan Chase,NYSE,active,10,200.0,USD,0.10,글로벌 금융 프랜차이즈+자본배분,경기침체시 대손 증가,1
+UNH,UnitedHealth Group,NYSE,active,5,530.0,USD,0.10,헬스케어 플랫폼 독점적 지위,정책 규제 리스크,1
+XOM,ExxonMobil,NYSE,active,15,115.0,USD,0.08,자유현금흐름+주주환원,유가 변동성,2
+BRK.B,Berkshire Hathaway B,NYSE,active,20,390.0,USD,0.10,복합 가치투자+현금 보유력,승계 리스크 장기,3
+CASH_KRW,현금(원화),KRX,cash,0,1,KRW,0.08,유동성 확보,,5
+CASH_USD,현금(달러),NYSE,cash,0,1,USD,0.09,환헤지+기회비용,,5
