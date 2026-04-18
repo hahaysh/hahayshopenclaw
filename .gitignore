@@ -1,0 +1,14 @@
+# OpenClaw runtime & memory (절대 GitHub에 올리지 않음)
+.openclaw/
+workspace/
+**/.openclaw/**
+
+# Python
+__pycache__/
+*.pyc
+.env
+.env.*
+
+# OS
+.DS_Store
+``

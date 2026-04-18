@@ -1,0 +1,30 @@
+/bin/sh: 1: openclaw: not found
+/bin/sh: 1: openclaw: not found
+/bin/sh: 1: openclaw: not found
+/bin/sh: 1: openclaw: not found
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 000270"}}}
+$000270: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+$000270: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+$000270: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 035720"}}}
+$035720: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+$035720: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+$035720: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+$003690: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 003690"}}}
+$003690: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+$003690: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+$051910: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: 051910"}}}
+$051910: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+$051910: possibly delisted; no price data found  (period=5d) (Yahoo error = "No data found, symbol may be delisted")
+✅ 브리핑 저장 완료: /home/hahaysh/investment-assistant/reports/daily/2026-04-18.md
+
+📊 2026-04-18 일일 투자 브리핑
+- 시장: KOSPI 6,192 (-0.55%) / S&P500 7,126 (+1.20%)
+- 매크로: USDKRW 1,466 / 미국10년물 4.25% / VIX 17.5
+- WTI: 84.00 (-6.49%) / 금: 4,849
+- 포트폴리오: UnitedHealth Group 최고 (+2.44%) / ExxonMobil 최저 (-3.63%)
+- 리포트: /home/hahaysh/investment-assistant/reports/daily/2026-04-18.md
+✅ Telegram 전송 완료
+✅ 시나리오/액션 채우기 완료
