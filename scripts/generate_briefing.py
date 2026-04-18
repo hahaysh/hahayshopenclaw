@@ -17,7 +17,7 @@ today = datetime.now().strftime("%Y-%m-%d")
 output_path = os.path.expanduser(f"~/investment-assistant/reports/daily/{today}.md")
 
 OPENCLAW_BIN = os.path.expanduser("~/.npm-global/bin/openclaw")
-TELEGRAM_CHAT_ID = "YOUR_TELEGRAM_CHAT_ID"   # ← 본인 Chat ID로 변경
+TELEGRAM_CHAT_ID = "7733177955"
 # ──────────────────────────────────────────────────
 
 # ── 1. 매크로 데이터 수집 ──
@@ -54,7 +54,9 @@ with open(csv_path) as f:
             "005930": "005930.KS", "000660": "000660.KS",
             "005380": "005380.KS", "105560": "105560.KS",
             "000270": "000270.KS", "035420": "035420.KS",
-            "035720": "035720.KS",
+            "035720": "035720.KS", "003690": "003690.KS",
+            "051910": "051910.KS", "207940": "207940.KS",
+            "012330": "012330.KS",
             "BRK.B": "BRK-B"
         }
         yf_ticker = ticker_map.get(row["ticker"], row["ticker"])
